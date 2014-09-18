@@ -5,4 +5,4 @@ Python implementation of implicit matrix factorization as outlined in http://lab
 
 Requires numpy version 1.7.1 or greater and scipy version 0.12.0 or greater.
 
-This fork adds a multithreaded version: ```mf_threads.py``` that speed things up a little bit.
+This fork adds a multithreaded version: ```mf_threads.py``` that speeds things up a little bit.
